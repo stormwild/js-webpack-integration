@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("inside main js"),function(o){console.log("inside add component");const n=document.getElementById("reactRoot");console.log(n)}()})();

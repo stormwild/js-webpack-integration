@@ -1,4 +1,4 @@
-import AddComponent from './react/app';
+import AddComponent from './app/app';
 import "./style.css";
 
 console.log('inside main js');
